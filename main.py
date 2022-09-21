@@ -1,7 +1,3 @@
-from fileinput import close
-from tkinter import Y
-
-
 def close10(x,y):
     if abs(10-x)>abs(10-y):
         return y
